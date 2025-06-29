@@ -45,7 +45,7 @@ To transform raw sales data into a visually appealing and actionable dashboard t
 ## 🖼️ Dashboard Preview
 
 (https://github.com/Bhanukumartiwari/Super-Stores-Dashboard/blob/main/Superstore_Sales_Data.xlsx))
-
+https://github.com/Bhanukumartiwari/Super-Stores-Dashboard/blob/main/Screenshot%202025-06-29%20172353.png
 
 
 ---
