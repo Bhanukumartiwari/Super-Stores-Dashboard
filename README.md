@@ -44,9 +44,9 @@ To transform raw sales data into a visually appealing and actionable dashboard t
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](https://github.com/YOUR_USERNAME/superstore-sales-dashboard/blob/main/dashboard-preview.png)
+(https://github.com/Bhanukumartiwari/Super-Stores-Dashboard/blob/main/Superstore_Sales_Data.xlsx))
 
-*(Replace the above link with your actual GitHub path once the image is uploaded)*
+
 
 ---
 
